@@ -1,0 +1,64 @@
+# Site settings
+title: Linh Ha&#39;s Portfolio
+email: linh.ha1409@gmail.com
+url: https://www.fuulin.com
+description: "A collection of Linh Ha's design works, ranging from graphic design, digital and traditional art, game design, front-end web design and development, to motion graphic, 2D, 3D animation and game design."
+keywords: "graphic design, collateral design, motion graphic, animation, frontend, web design, adtech, digital art, artist, designer"
+skills: "Front-end Designer, Digital/3D Artist, Graphic Designer"
+meta_author: Linh Ha
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: d78400 
+  primary-rgb: "246,173,0" 
+  secondary: 18415b 
+  secondary-dark: 062635 
+
+# Footer settings
+footer:
+  copyright: Linh Ha
+  location: Location
+  social: Find Me Anywhere
+  credits: Contact Me
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: http://www.instagram.com/fuulyn
+  - title: facebook
+    url: http://www.facebook.com/fuurin
+  - title: linkedin
+    url: https://www.linkedin.com/in/httlinh/
+  - title: github
+    url: http://github.com/linhremerge  
+  - title: youtube
+    url: https://www.youtube.com/user/kiddouchan/videos
+    
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 345 Kang Ching Road
+  - line: Singapore 610345
+
+# Credits content
+credits: 'Phone: (+65) 9099 4109 <br> E-mail: linh.ha1409@gmail.com'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
